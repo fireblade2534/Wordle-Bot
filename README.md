@@ -10,6 +10,3 @@ This is a simple Wordle solver bot I made.
 
 ### Codes
 The codes are 5 digits. Each digit corosponds to one letter of the best guess. If the letter at that position is grey type in a 0. If the letter at that position is yellow type in a 0. If the letter at that position is green type in a 0. 
-
-
-
