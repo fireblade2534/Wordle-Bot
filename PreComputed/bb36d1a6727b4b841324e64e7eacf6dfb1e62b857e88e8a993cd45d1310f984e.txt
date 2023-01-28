@@ -1,0 +1,1 @@
+{"Word": "gawds", "Groups": {"00000": ["booby", "boozy", "bobby", "poppy", "hobby"], "00220": ["howdy", "dowdy"], "10000": ["foggy"], "00100": ["woozy"], "20020": ["goody"], "00120": ["woody"], "00020": ["moody"], "10010": ["dodgy"], "00210": ["downy"], "20000": ["goofy"]}}

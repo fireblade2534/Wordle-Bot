@@ -1,0 +1,1 @@
+{"Word": "bosun", "Groups": {"00001": ["print"], "01001": ["front"], "01000": ["froth", "droit"], "00000": ["fritz", "drift"], "00100": ["wrist"], "00011": ["grunt"], "01020": ["grout"], "11000": ["orbit"], "01100": ["frost"], "00010": ["fruit"], "20011": ["brunt"], "21000": ["broth"]}}

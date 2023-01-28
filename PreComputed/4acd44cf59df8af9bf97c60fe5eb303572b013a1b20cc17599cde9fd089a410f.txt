@@ -1,0 +1,1 @@
+{"Word": "podge", "Groups": {"00110": ["gaudy"], "00010": ["gawky"], "00200": ["daddy"], "00020": ["baggy"], "00000": ["mammy", "jazzy"], "00100": ["bawdy"], "20200": ["paddy"], "10000": ["happy"]}}

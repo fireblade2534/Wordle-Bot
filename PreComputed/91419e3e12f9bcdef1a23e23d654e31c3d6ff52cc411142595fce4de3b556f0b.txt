@@ -1,0 +1,1 @@
+{"Word": "abamp", "Groups": {"00010": ["model"], "00000": ["dowel"]}}

@@ -1,0 +1,1 @@
+{"Word": "biogs", "Groups": {"10000": ["thumb"], "02001": ["tipsy"], "00120": ["tough"], "01100": ["toxin"], "00000": ["thump"], "01000": ["tulip", "think", "twixt"], "00200": ["tooth"], "01010": ["tying", "thing"], "01001": ["twist"], "00100": ["toddy"], "01020": ["thigh"], "02010": ["tight"], "02000": ["timid"], "00210": ["thong"]}}

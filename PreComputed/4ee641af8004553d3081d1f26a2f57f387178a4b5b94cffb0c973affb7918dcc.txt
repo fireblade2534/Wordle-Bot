@@ -1,0 +1,1 @@
+{"Word": "gamin", "Groups": {"22200": ["gamer"], "02000": ["baker", "safer", "waver", "wafer"], "01000": ["zebra"], "01010": ["aider"], "02202": ["ramen"], "12000": ["wager", "eager"], "22000": ["gazer"], "02001": ["saner"], "02100": ["maker"], "01100": ["amber"], "02002": ["raven"], "11001": ["anger"]}}
