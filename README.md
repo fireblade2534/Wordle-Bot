@@ -11,6 +11,9 @@ This is a simple Wordle solver bot I made.
 ### Codes
 The codes are 5 digits. Each digit corosponds to one letter of the best guess. If the letter at that position is grey type in a 0. If the letter at that position is yellow type in a 0. If the letter at that position is green type in a 0. 
 
+
+
+
 The pre computed folder stores info so the bot only has to generate the answer to a specific situation once.
 
 **DO NOT DELETE THE PRECOMPUTED FOLDER**
