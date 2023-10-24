@@ -1,7 +1,9 @@
 import json
 from functools import wraps
 import hashlib
-
+import multiprocessing
+from multiprocessing import Pool
+from ProgressBar import ProgressBar
 def memoize(obj):
     cache = obj.cache = {}
 
@@ -33,25 +35,20 @@ def SavePreCompute(Hash,Word,Groups):
 
 
 @memoize
-def ComputeCode(Input,Correct,AsList=True):
-    Output = [0 for _ in range(len(Input))]
+def ComputeCode(Input,Correct):
+    Output = ["0","0","0","0","0"]
     Check=list(Correct)
     for X,Y in enumerate(Input):
         if Y == Correct[X]:
             Check.remove(Y)
-            Output[X]={"Letter":Y,"Code":2}
+            Output[X]="2"
 
     for X,Y in enumerate(Input):
         if Y in Check and Y != Correct[X]:
             Check.remove(Y)
-            Output[X]={"Letter":Y,"Code":1}
-        elif Output[X] == 0:
-            Output[X]={"Letter":Y,"Code":0}
+            Output[X]="1"
 
-    if not AsList:
-        Output = "".join([str(X["Code"]) for X in Output])
-
-    return Output
+    return ["".join(Output),Correct]
 
 
 
@@ -61,39 +58,44 @@ class BotClass:
         self.AllWords = AllWords
         self.Trimmed = Words
     
-    def GenerateGroups(self):
+    def GenerateGroups(self,Word=None):
 
         BestWord=""
         BestGroups={}
 
         TrimmedHash=GetHash(Bot.Trimmed)
         PreComputed=GetPreCompute(TrimmedHash)
-        if PreComputed == False:
+        if PreComputed == False or Word != None:
             
             
             BestGroupScore=0
+            Bar=ProgressBar(28,0,len(self.AllWords),Name="Computing Best Guess")
+            for Count,X in enumerate(self.AllWords):
+                if Word == None or X == Word.lower():
+                    #print(X)
+                    Groups={}
+                    with Pool(processes=4) as pool:
+                        for Code in pool.starmap(ComputeCode,[(X,Y) for Y in self.Trimmed],chunksize=600):
+                            #print(Code)
+                            if Groups.get(Code[0]) == None:
+                                Groups[Code[0]]=[]
+                            Groups[Code[0]].append(Code[1])
+                            
+                    Bar.Update(Count)
 
-            for X in self.AllWords:
-                Groups={}
-                for Y in self.Trimmed:
-                    Code=ComputeCode(X,Y,False)
-                    if Groups.get(Code) == None:
-                        Groups[Code]=[]
-                    Groups[Code].append(Y)
                     
-                    
+                    Trimed=set(Groups.keys()) 
+                    #print(Trimed)
+                    Total=(len(Trimed) * 4)# + (sum([243 - len(Groups[X]) for X in Trimed]) * 3) + (len([X for X in Groups if len(Groups[X]) == 1]) / len(Groups)) * 500
+                    #Total=abs((len(self.Trimmed) / len(Trimed)) - (sum([list(Groups.keys()).count(X) for X in Trimed]) / len(Trimed)))
 
-                
-                Trimed=set(Groups.keys()) 
-                Total=(len(Trimed) * 4) + (sum([243 - len(Groups[X]) for X in Trimed]) * 3) + (len([X for X in Groups if len(Groups[X]) == 1]) / len(Groups)) * 500
-                #Total=abs((len(self.Trimmed) / len(Trimed)) - (sum([list(Groups.keys()).count(X) for X in Trimed]) / len(Trimed)))
-
-                if Total > BestGroupScore:
-                    BestGroupScore=Total
-                    BestWord=X
-                    BestGroups=Groups
-            SavePreCompute(TrimmedHash,BestWord,BestGroups)
-
+                    if Total > BestGroupScore:
+                        BestGroupScore=Total
+                        BestWord=X
+                        BestGroups=Groups
+            if Word == None:
+                SavePreCompute(TrimmedHash,BestWord,BestGroups)
+            Bar.EndProgressBar()
         else:
             BestWord=PreComputed["Word"]
             BestGroups=PreComputed["Groups"]
@@ -117,8 +119,15 @@ if __name__ == "__main__":
 
 
         Bot=BotClass(AllWords,Words)
-
-        BestGuess,BestGroups=Bot.GenerateGroups()
+        StartWord=None
+        while True:
+            Input=input("Inital Guess(Leave blank for it to compute one): ").lower()
+            if Input == "":
+                break
+            if Input.lower().strip() in Bot.AllWords:
+                StartWord=Input
+                break
+        BestGuess,BestGroups=Bot.GenerateGroups(StartWord)
         
         while True:
             CurrentHash=GetHash(Bot.Trimmed)
