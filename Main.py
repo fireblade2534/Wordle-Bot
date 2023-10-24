@@ -75,7 +75,7 @@ class BotClass:
                     #print(X)
                     Groups={}
                     with Pool(processes=4) as pool:
-                        for Code in pool.starmap(ComputeCode,[(X,Y) for Y in self.Trimmed],chunksize=600):
+                        for Code in pool.starmap(ComputeCode,[(X,Y) for Y in self.Trimmed],chunksize=700):
                             #print(Code)
                             if Groups.get(Code[0]) == None:
                                 Groups[Code[0]]=[]
