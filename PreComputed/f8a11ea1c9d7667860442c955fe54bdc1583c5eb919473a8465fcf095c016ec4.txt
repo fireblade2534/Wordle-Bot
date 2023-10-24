@@ -1,0 +1,1 @@
+{"Word": "accoy", "Groups": {"01100": ["civic"], "01110": ["conic"], "00202": ["picky"], "01101": ["cynic"], "01010": ["ionic"]}}
