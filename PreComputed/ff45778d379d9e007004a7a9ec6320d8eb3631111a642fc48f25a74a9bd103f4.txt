@@ -1,0 +1,1 @@
+{"Word": "bandy", "Groups": {"00202": ["minty"], "00002": ["kitty", "witty", "fifty"], "00100": ["flint"], "00012": ["ditty"], "20002": ["bitty"], "20000": ["blitz"], "00000": ["limit"]}}

@@ -1,0 +1,1 @@
+{"Word": "afear", "Groups": {"01100": ["unfed"], "00100": ["unwed"], "00200": ["kneed"]}}

@@ -1,0 +1,1 @@
+{"Word": "barfi", "Groups": {"22100": ["baker"], "02200": ["rarer"], "02100": ["waver"], "02110": ["wafer"]}}

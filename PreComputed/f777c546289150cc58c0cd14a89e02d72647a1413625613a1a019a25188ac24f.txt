@@ -1,0 +1,1 @@
+{"Word": "agloo", "Groups": {"00021": ["whoop"], "00020": ["buxom"], "00002": ["jumbo"], "01002": ["gumbo"], "00010": ["known"]}}

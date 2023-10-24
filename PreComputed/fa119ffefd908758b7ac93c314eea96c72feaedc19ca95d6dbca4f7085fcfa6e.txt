@@ -1,0 +1,1 @@
+{"Word": "abaci", "Groups": {"00000": ["wrote"], "00001": ["write"], "01000": ["brute"]}}

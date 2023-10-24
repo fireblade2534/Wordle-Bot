@@ -1,0 +1,1 @@
+{"Word": "hwyls", "Groups": {"20000": ["heath"], "10000": ["death"], "00020": ["exalt", "dealt"], "00000": ["meant"], "00011": ["least"], "00100": ["meaty"], "00101": ["yeast"], "00001": ["feast", "beast"], "00010": ["leant", "leapt"]}}

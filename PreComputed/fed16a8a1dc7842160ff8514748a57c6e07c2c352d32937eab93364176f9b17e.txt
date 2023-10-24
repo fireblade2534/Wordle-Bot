@@ -1,0 +1,1 @@
+{"Word": "baghs", "Groups": {"02000": ["lapel"], "12000": ["label"], "02010": ["hazel"], "02100": ["gavel"], "22200": ["bagel"]}}

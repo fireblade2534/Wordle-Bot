@@ -1,0 +1,1 @@
+{"Word": "acidy", "Groups": {"11000": ["charm"], "11100": ["chair"], "12000": ["scarf"], "11010": ["chard"], "12002": ["scary"]}}

@@ -1,0 +1,1 @@
+{"Word": "dawah", "Groups": {"00200": ["lowly"], "00000": ["folly", "jolly", "nobly", "golly"], "10000": ["godly"], "20000": ["dolly"], "00001": ["holly"], "00100": ["wooly"]}}

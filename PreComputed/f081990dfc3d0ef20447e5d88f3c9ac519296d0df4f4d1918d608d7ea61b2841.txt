@@ -1,0 +1,1 @@
+{"Word": "flawn", "Groups": {"00022": ["shown"], "00000": ["shook", "spook"], "00012": ["swoon"], "00001": ["snoop"], "10000": ["spoof"], "00002": ["spoon"], "00010": ["swoop"]}}

@@ -1,0 +1,1 @@
+{"Word": "bedel", "Groups": {"01100": ["edict"], "01011": ["elect"], "01000": ["evict"], "02000": ["fetch"], "01010": ["eject"]}}
