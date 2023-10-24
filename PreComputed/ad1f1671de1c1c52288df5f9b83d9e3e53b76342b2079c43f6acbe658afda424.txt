@@ -1,0 +1,1 @@
+{"Word": "carom", "Groups": {"21100": ["cigar"], "22210": ["cargo"], "11200": ["scrap", "acrid"], "22200": ["carry"], "11110": ["acorn"], "21210": ["coral"], "22220": ["carol"], "22100": ["cairn"], "11100": ["vicar"], "21110": ["cobra"], "12111": ["macro"], "11202": ["scram"]}}
