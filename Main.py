@@ -63,7 +63,7 @@ class BotClass:
         BestWord=""
         BestGroups={}
 
-        TrimmedHash=GetHash(Bot.Trimmed)
+        TrimmedHash=GetHash(self.Trimmed)
         PreComputed=GetPreCompute(TrimmedHash)
         if PreComputed == False or Word != None:
             
@@ -102,8 +102,16 @@ class BotClass:
         return BestWord,BestGroups
     
     
-
-
+def ComputeAll(AllWords,Words):
+    for X in Words:
+        Bot=BotClass(AllWords,Words)
+        while True:
+            BestGuess,BestGroups=Bot.GenerateGroups()
+            Input=ComputeCode(BestGuess,X)[0]
+            Bot.Trimmed=BestGroups[Input]
+            if len(Bot.Trimmed) == 1:
+                break
+            
         
 
 
@@ -116,7 +124,8 @@ if __name__ == "__main__":
     while True:
         AllWords = json.load(open("AllWords.txt", "r"))
         Words = json.load(open("Words.txt", "r"))
-
+        ComputeAll(AllWords,Words)
+        exit()
 
         Bot=BotClass(AllWords,Words)
         StartWord=None
