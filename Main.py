@@ -124,8 +124,6 @@ if __name__ == "__main__":
     while True:
         AllWords = json.load(open("AllWords.txt", "r"))
         Words = json.load(open("Words.txt", "r"))
-        ComputeAll(AllWords,Words)
-        exit()
 
         Bot=BotClass(AllWords,Words)
         StartWord=None
