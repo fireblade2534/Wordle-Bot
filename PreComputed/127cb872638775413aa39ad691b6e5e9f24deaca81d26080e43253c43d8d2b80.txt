@@ -1,0 +1,1 @@
+{"Word": "dhows", "Groups": {"20010": ["dwarf"], "12001": ["shard"], "11100": ["hoard"], "00000": ["flair", "quark", "alarm"], "00001": ["snarl", "spark"], "02010": ["wharf"], "10010": ["award"], "00100": ["ovary"], "00011": ["swarm"], "20000": ["diary"], "02001": ["sharp", "shark"], "10100": ["board"], "10000": ["guard"]}}

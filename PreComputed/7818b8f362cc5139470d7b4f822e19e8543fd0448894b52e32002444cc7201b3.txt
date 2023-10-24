@@ -1,0 +1,1 @@
+{"Word": "clomb", "Groups": {"10000": ["hatch", "watch", "patch"], "20000": ["catch"], "11000": ["latch"], "10001": ["batch"], "10010": ["match"]}}

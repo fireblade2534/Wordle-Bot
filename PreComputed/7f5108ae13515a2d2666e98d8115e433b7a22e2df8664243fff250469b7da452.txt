@@ -1,0 +1,1 @@
+{"Word": "ampul", "Groups": {"00002": ["vigil"], "00011": ["fluid"], "00212": ["pupil"], "00201": ["lipid"], "00001": ["livid"]}}

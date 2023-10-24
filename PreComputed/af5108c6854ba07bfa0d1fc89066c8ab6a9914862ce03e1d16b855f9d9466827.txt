@@ -1,0 +1,1 @@
+{"Word": "alway", "Groups": {"22020": ["altar"], "12000": ["ultra"], "00022": ["stray"], "00120": ["straw"], "10002": ["party", "ratty"], "00020": ["strap"], "20000": ["abort"], "10102": ["warty"], "10000": ["ratio"], "10001": ["satyr"], "20010": ["aorta"]}}

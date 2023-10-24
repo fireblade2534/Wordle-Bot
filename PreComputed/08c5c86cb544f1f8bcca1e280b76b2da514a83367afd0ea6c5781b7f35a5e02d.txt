@@ -1,0 +1,1 @@
+{"Word": "duply", "Groups": {"00001": ["yearn"], "00002": ["weary"], "00110": ["pearl"], "10002": ["ready"], "00020": ["realm"], "00000": ["rearm"], "10000": ["beard", "heard"], "00010": ["learn"]}}

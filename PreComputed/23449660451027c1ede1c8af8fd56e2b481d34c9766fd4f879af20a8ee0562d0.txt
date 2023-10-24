@@ -1,0 +1,1 @@
+{"Word": "aglus", "Groups": {"01100": ["growl"], "01020": ["group"], "00000": ["proxy"], "00100": ["prowl"], "01002": ["gross"]}}

@@ -1,0 +1,1 @@
+{"Word": "glops", "Groups": {"00000": ["abate"], "10000": ["agate"], "01001": ["stale"], "10001": ["stage"], "02001": ["slate"], "02010": ["plate"], "00001": ["stake", "skate", "stave", "state"], "02000": ["elate"], "00100": ["ovate"]}}

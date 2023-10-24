@@ -1,0 +1,1 @@
+{"Word": "aboon", "Groups": {"11000": ["briar"], "20200": ["aroma"], "10202": ["groan"], "20020": ["ardor", "armor", "arrow"], "20022": ["arson"], "21020": ["arbor"], "10000": ["friar"], "11002": ["urban"], "20000": ["array"], "11200": ["broad"], "10102": ["organ"]}}

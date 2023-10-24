@@ -1,0 +1,1 @@
+{"Word": "aargh", "Groups": {"00021": ["hinge"], "00010": ["genie"], "00020": ["binge"]}}

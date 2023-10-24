@@ -1,0 +1,1 @@
+{"Word": "dwang", "Groups": {"00000": ["hippy", "jiffy", "fizzy"], "00001": ["piggy"], "11010": ["windy"], "01000": ["wimpy"], "20000": ["dizzy"], "00020": ["ninny"], "20011": ["dingy"], "00010": ["pinky", "kinky"], "10001": ["giddy"], "10000": ["biddy"]}}

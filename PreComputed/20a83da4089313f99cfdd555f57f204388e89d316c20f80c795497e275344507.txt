@@ -1,0 +1,1 @@
+{"Word": "auxin", "Groups": {"02021": ["tunic"], "00020": ["topic"], "00220": ["toxic"], "00021": ["tonic"]}}

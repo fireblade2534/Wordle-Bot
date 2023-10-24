@@ -1,0 +1,1 @@
+{"Word": "aflaj", "Groups": {"01200": ["folly"], "00201": ["jolly"], "00100": ["nobly"], "00200": ["golly"]}}

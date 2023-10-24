@@ -1,0 +1,1 @@
+{"Word": "shily", "Groups": {"00110": ["tilde"], "12000": ["those", "these"], "02000": ["theme"], "02001": ["thyme"], "00200": ["twine"], "00120": ["title"], "10000": ["tense"], "01100": ["tithe"], "00020": ["tulle"], "00000": ["tepee"]}}

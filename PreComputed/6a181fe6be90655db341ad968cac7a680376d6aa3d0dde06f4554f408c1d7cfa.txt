@@ -1,0 +1,1 @@
+{"Word": "alway", "Groups": {"01001": ["yield"], "01000": ["field"], "01100": ["wield"]}}

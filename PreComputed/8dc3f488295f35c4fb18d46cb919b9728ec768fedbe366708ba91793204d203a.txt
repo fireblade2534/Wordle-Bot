@@ -1,0 +1,1 @@
+{"Word": "peles", "Groups": {"02200": ["delta"], "21100": ["pleat"], "02100": ["metal", "fetal"], "00021": ["asset"], "01001": ["stead", "sweat", "steak", "steam"], "00220": ["valet"], "01020": ["eaten"], "00020": ["matey"], "01101": ["steal"], "02000": ["begat"], "11000": ["adept"], "01100": ["bleat"], "01000": ["agent", "wheat"], "22100": ["petal"]}}

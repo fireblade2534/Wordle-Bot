@@ -1,0 +1,1 @@
+{"Word": "aband", "Groups": {"11000": ["break"], "10001": ["dream"], "20120": ["arena"], "11002": ["bread"], "10000": ["freak", "wreak"], "10002": ["dread"]}}

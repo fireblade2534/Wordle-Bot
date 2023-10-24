@@ -1,0 +1,1 @@
+{"Word": "aidoi", "Groups": {"02101": ["vivid"], "00002": ["fungi"], "01100": ["humid"], "01000": ["unzip"], "02001": ["minim"], "01200": ["undid"]}}

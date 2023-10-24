@@ -1,0 +1,1 @@
+{"Word": "amyls", "Groups": {"10100": ["crazy"], "10002": ["crass"], "10000": ["crank"], "11000": ["cramp"], "10001": ["crash"], "10010": ["crawl"]}}

@@ -1,0 +1,1 @@
+{"Word": "dogma", "Groups": {"00200": ["buggy"], "00000": ["hunky", "funny", "puppy", "bunny", "puffy", "fuzzy", "funky"], "00020": ["mummy"], "10010": ["muddy"], "20010": ["dumpy"], "10000": ["buddy"], "10100": ["pudgy"], "20020": ["dummy"], "00010": ["jumpy"], "00220": ["pygmy"], "00100": ["guppy"], "00120": ["gummy"]}}

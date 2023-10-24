@@ -1,0 +1,1 @@
+{"Word": "aboil", "Groups": {"00100": ["onset"], "00000": ["unset"], "00010": ["exist"]}}

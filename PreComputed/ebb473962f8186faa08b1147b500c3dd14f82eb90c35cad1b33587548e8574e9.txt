@@ -1,0 +1,1 @@
+{"Word": "agave", "Groups": {"01010": ["vigor"], "01000": ["rigor"], "00000": ["minor"]}}

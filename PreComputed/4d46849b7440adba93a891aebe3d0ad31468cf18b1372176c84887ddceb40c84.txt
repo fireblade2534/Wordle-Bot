@@ -1,0 +1,1 @@
+{"Word": "abamp", "Groups": {"00020": ["rhyme"], "00000": ["where"]}}

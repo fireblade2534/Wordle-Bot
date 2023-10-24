@@ -1,0 +1,1 @@
+{"Word": "aalii", "Groups": {"00010": ["inert"], "00000": ["overt"]}}

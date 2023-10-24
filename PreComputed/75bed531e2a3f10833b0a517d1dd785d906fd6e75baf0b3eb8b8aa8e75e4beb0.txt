@@ -1,0 +1,1 @@
+{"Word": "ahind", "Groups": {"10000": ["marry"], "11000": ["harry"], "11200": ["hairy"], "10200": ["fairy"], "11001": ["hardy"], "10201": ["dairy"]}}

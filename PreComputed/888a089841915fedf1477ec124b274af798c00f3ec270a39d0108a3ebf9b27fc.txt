@@ -1,0 +1,1 @@
+{"Word": "dumka", "Groups": {"00021": ["shake"], "00101": ["shame"], "10001": ["shade"], "00001": ["shave"]}}

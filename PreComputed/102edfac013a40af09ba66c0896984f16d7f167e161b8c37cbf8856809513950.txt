@@ -1,0 +1,1 @@
+{"Word": "acers", "Groups": {"02121": ["score"], "01120": ["chore"], "01111": ["curse"], "01110": ["curve"], "02111": ["scree"]}}

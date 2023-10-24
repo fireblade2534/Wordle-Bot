@@ -1,0 +1,1 @@
+{"Word": "abers", "Groups": {"00100": ["epoxy"], "00200": ["geeky"], "00201": ["poesy"], "01200": ["beefy"], "00101": ["pesky"], "00202": ["guess"]}}

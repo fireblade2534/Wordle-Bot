@@ -1,0 +1,1 @@
+{"Word": "aalii", "Groups": {"12100": ["naval"], "20110": ["align"], "20120": ["anvil"]}}

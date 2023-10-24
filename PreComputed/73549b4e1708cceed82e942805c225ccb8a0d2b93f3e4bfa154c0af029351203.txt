@@ -1,0 +1,1 @@
+{"Word": "bifid", "Groups": {"20002": ["bland"], "20000": ["blank"], "00100": ["flank"], "00000": ["plank"], "00002": ["gland"]}}

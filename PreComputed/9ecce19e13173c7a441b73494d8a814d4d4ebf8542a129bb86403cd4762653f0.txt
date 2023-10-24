@@ -1,0 +1,1 @@
+{"Word": "apiol", "Groups": {"01100": ["input"], "00100": ["unfit"], "00101": ["unlit"], "00201": ["built", "quilt"], "01000": ["putty"], "00102": ["until"], "00200": ["unity"], "00000": ["nutty"]}}

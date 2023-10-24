@@ -1,0 +1,1 @@
+{"Word": "almeh", "Groups": {"20010": ["avert"], "10021": ["hater"], "10020": ["eater", "water"], "11020": ["later"], "10012": ["earth"], "20020": ["after"], "22020": ["alter"], "22010": ["alert"], "10010": ["extra"]}}

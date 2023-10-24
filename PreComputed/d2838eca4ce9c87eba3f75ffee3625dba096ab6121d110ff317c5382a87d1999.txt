@@ -1,0 +1,1 @@
+{"Word": "dough", "Groups": {"00200": ["jaunt", "vaunt"], "00210": ["gaunt"], "00201": ["haunt"], "00110": ["gamut"], "20200": ["daunt"]}}

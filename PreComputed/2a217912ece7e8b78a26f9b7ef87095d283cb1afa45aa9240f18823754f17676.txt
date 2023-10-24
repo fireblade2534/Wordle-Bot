@@ -1,0 +1,1 @@
+{"Word": "acred", "Groups": {"00120": ["rupee"], "00220": ["puree"], "00110": ["revue"]}}

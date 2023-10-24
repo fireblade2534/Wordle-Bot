@@ -1,0 +1,1 @@
+{"Word": "shlub", "Groups": {"00001": ["aback"], "02000": ["whack"], "00101": ["black"], "00100": ["flack", "clack"], "20100": ["slack"], "01000": ["coach"], "20000": ["smack", "snack"], "00010": ["quack"], "22000": ["shack"], "00000": ["knack"]}}

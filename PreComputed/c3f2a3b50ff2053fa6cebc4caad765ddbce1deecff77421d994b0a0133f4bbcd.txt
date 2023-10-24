@@ -1,0 +1,1 @@
+{"Word": "afald", "Groups": {"00000": ["ninth"], "00001": ["width"], "01010": ["filth"], "01000": ["fifth"]}}

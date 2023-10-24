@@ -1,0 +1,1 @@
+{"Word": "abets", "Groups": {"10020": ["tatty"], "10021": ["tasty"], "11010": ["tabby"], "10010": ["taffy"]}}

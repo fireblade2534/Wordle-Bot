@@ -1,0 +1,1 @@
+{"Word": "aduki", "Groups": {"10001": ["basic"], "10020": ["wacky"], "11000": ["caddy"], "10200": ["scuba"], "10000": ["cabby"]}}

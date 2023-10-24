@@ -1,0 +1,1 @@
+{"Word": "noups", "Groups": {"10000": ["wince", "mince", "fence", "hence"], "02000": ["voice"], "20000": ["niece"], "10001": ["since"], "10100": ["dunce"], "10010": ["pence"], "00011": ["spice"], "00001": ["slice"], "11100": ["ounce"], "00100": ["juice"], "00200": ["deuce"], "00010": ["piece"]}}

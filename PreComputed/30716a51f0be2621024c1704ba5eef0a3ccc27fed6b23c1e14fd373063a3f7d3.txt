@@ -1,0 +1,1 @@
+{"Word": "aimed", "Groups": {"02020": ["filet"], "00010": ["extol"], "00020": ["hotel"], "00120": ["motel"], "01020": ["inlet"]}}

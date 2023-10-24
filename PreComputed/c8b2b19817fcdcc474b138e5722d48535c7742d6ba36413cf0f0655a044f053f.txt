@@ -1,0 +1,1 @@
+{"Word": "bumfs", "Groups": {"01020": ["fluff"], "21020": ["bluff"], "01000": ["plunk"], "01010": ["flunk", "flung"], "11100": ["plumb"], "01100": ["plump"]}}

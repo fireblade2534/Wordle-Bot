@@ -1,0 +1,1 @@
+{"Word": "boeuf", "Groups": {"00100": ["inter"], "01110": ["outer"], "01100": ["otter"], "00110": ["utter"], "02100": ["voter"]}}

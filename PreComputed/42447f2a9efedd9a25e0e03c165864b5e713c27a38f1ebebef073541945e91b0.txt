@@ -1,0 +1,1 @@
+{"Word": "aidoi", "Groups": {"01000": ["chill"], "01100": ["child"], "01002": ["chili"], "01001": ["icily"]}}

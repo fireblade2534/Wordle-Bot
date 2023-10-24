@@ -1,0 +1,1 @@
+{"Word": "ahull", "Groups": {"10010": ["valve"], "10020": ["eagle"], "11010": ["halve"], "10110": ["value"]}}

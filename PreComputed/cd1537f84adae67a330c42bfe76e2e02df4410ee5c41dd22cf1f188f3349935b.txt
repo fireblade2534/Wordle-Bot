@@ -1,0 +1,1 @@
+{"Word": "alums", "Groups": {"01000": ["troll"], "00202": ["truss"], "00001": ["tryst"], "00100": ["trout"], "01200": ["truly"], "00200": ["trunk", "truth"], "00000": ["troop"], "00220": ["trump"], "00201": ["trust"]}}

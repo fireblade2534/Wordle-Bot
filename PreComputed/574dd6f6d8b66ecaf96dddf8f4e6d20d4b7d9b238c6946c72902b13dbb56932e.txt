@@ -1,0 +1,1 @@
+{"Word": "azyms", "Groups": {"10010": ["major"], "10000": ["favor"], "11000": ["razor"], "10001": ["savor"], "20000": ["abhor"]}}

@@ -1,0 +1,1 @@
+{"Word": "abaft", "Groups": {"00000": ["shell"], "00010": ["shelf"]}}

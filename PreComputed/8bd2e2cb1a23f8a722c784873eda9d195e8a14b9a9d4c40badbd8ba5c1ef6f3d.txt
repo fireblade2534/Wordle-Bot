@@ -1,0 +1,1 @@
+{"Word": "adeem", "Groups": {"00211": ["creme"], "00210": ["crepe"], "01100": ["crude"], "00101": ["crime"], "00100": ["crone"]}}

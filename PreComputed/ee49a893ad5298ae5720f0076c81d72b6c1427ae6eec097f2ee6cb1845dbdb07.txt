@@ -1,0 +1,1 @@
+{"Word": "enmew", "Groups": {"00100": ["skimp"], "01000": ["suing"], "00001": ["swish"], "00000": ["skiff"], "01001": ["swing"], "02000": ["sniff"]}}

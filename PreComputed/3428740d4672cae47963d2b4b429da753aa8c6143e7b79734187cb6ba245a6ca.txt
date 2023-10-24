@@ -1,0 +1,1 @@
+{"Word": "bebop", "Groups": {"01010": ["trove"], "01011": ["trope"], "01000": ["trite"], "11000": ["tribe"], "01001": ["tripe"]}}

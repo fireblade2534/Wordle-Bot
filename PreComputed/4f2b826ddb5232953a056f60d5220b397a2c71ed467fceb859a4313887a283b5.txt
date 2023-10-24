@@ -1,0 +1,1 @@
+{"Word": "advew", "Groups": {"00010": ["opine"], "00110": ["ovine"], "00011": ["whine"]}}

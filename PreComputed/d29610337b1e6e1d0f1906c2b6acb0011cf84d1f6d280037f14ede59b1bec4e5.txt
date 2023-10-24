@@ -1,0 +1,1 @@
+{"Word": "rowth", "Groups": {"12100": ["wooer"], "10200": ["fewer"], "22000": ["rover", "roger"], "12000": ["joker", "boxer"], "11000": ["offer"], "12001": ["hover"], "20000": ["refer"], "10000": ["fever"], "22200": ["rower"]}}

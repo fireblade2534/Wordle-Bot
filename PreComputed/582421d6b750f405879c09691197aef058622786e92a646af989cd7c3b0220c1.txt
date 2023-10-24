@@ -1,0 +1,1 @@
+{"Word": "bacco", "Groups": {"00020": ["prick"], "00121": ["crock"], "00120": ["crick"], "00021": ["frock"], "20020": ["brick"]}}

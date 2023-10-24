@@ -1,0 +1,1 @@
+{"Word": "farer", "Groups": {"20100": ["fjord"], "00002": ["humor"], "20202": ["furor"], "00202": ["juror"], "00102": ["rumor"]}}

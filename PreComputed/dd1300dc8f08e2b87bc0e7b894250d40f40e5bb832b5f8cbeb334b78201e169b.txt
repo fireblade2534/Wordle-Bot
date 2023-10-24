@@ -1,0 +1,1 @@
+{"Word": "apish", "Groups": {"10010": ["staff"], "11010": ["stamp"], "10011": ["shaft"], "10012": ["swath"], "10022": ["stash"]}}

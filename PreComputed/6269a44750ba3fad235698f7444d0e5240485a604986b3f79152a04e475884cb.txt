@@ -1,0 +1,1 @@
+{"Word": "cowps", "Groups": {"10000": ["hatch"], "10100": ["watch"], "10010": ["patch"]}}

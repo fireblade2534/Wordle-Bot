@@ -1,0 +1,1 @@
+{"Word": "damps", "Groups": {"11000": ["grade"], "01000": ["brake", "grave", "brave", "graze"], "01100": ["frame"], "01020": ["grape"], "21000": ["drake"], "01001": ["erase"], "21020": ["drape"]}}

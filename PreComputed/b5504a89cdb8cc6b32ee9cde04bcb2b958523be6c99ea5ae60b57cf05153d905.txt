@@ -1,0 +1,1 @@
+{"Word": "baken", "Groups": {"00012": ["feign"], "20011": ["being"], "20012": ["begin"], "00011": ["neigh", "eying"], "00111": ["eking"]}}

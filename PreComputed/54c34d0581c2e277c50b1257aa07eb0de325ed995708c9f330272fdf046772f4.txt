@@ -1,0 +1,1 @@
+{"Word": "abrin", "Groups": {"01110": ["fibre"], "00110": ["rifle"], "00220": ["eerie"], "00201": ["nerve"], "00200": ["verve"]}}

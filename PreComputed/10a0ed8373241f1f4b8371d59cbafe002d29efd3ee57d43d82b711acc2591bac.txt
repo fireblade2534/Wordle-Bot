@@ -1,0 +1,1 @@
+{"Word": "chirr", "Groups": {"10002": ["ulcer", "decor"], "10102": ["nicer"], "20002": ["cover", "cyber", "cower"], "20102": ["cider"], "10012": ["recur"], "10010": ["screw"], "20020": ["clerk"], "22002": ["cheer"], "20012": ["corer"], "10110": ["relic"], "10020": ["decry"]}}

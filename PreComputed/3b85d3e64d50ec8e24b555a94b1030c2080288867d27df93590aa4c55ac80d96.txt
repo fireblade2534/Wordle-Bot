@@ -1,0 +1,1 @@
+{"Word": "akene", "Groups": {"00002": ["stove"], "01002": ["stoke"], "00022": ["stone"]}}

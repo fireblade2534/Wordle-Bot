@@ -1,0 +1,1 @@
+{"Word": "bedim", "Groups": {"02000": ["leave"], "21000": ["blaze"], "01100": ["glade"], "01001": ["flame"], "01000": ["flake", "glaze"], "21100": ["blade"], "21001": ["blame"]}}

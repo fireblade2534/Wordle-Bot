@@ -1,0 +1,1 @@
+{"Word": "aurar", "Groups": {"00220": ["viral"], "10210": ["larva"], "02220": ["mural"], "00120": ["rival"], "02221": ["rural"]}}

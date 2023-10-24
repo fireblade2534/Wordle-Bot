@@ -1,0 +1,1 @@
+{"Word": "apeak", "Groups": {"00001": ["skill"], "00000": ["swill"], "02000": ["spill"]}}

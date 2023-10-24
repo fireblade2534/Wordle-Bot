@@ -1,0 +1,1 @@
+{"Word": "abaca", "Groups": {"01000": ["butte"], "00000": ["quote"]}}

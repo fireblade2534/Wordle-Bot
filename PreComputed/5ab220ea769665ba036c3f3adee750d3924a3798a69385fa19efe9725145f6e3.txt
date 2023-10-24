@@ -1,0 +1,1 @@
+{"Word": "akene", "Groups": {"00010": ["snuff"], "02020": ["skunk"], "00020": ["swung"], "01020": ["spunk"], "00000": ["shush"]}}

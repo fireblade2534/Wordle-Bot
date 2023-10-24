@@ -1,0 +1,1 @@
+{"Word": "aahed", "Groups": {"12000": ["banal"], "10000": ["final"], "20000": ["annul"]}}

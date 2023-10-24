@@ -1,0 +1,1 @@
+{"Word": "afald", "Groups": {"01000": ["finer"], "00010": ["liner"], "00000": ["miner"]}}

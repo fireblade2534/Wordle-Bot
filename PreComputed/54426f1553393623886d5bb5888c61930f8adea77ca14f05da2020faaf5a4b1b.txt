@@ -1,0 +1,1 @@
+{"Word": "aboon", "Groups": {"00100": ["opium"], "00122": ["onion"], "00020": ["idiom"], "00101": ["owing"], "00022": ["union"]}}

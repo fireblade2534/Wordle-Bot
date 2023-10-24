@@ -1,0 +1,1 @@
+{"Word": "veeps", "Groups": {"01000": ["golem", "bowel"], "01211": ["sleep"], "21000": ["vowel"], "11000": ["hovel"], "01200": ["wheel"], "12100": ["bevel"], "02100": ["jewel", "bezel"], "01110": ["expel"], "01210": ["bleep"], "01201": ["sleek"]}}

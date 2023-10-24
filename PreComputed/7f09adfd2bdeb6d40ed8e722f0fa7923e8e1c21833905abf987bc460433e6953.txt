@@ -1,0 +1,1 @@
+{"Word": "bumph", "Groups": {"01010": ["pound"], "01000": ["found", "wound"], "21002": ["bough"], "01100": ["mound"], "20000": ["bongo"], "01002": ["dough"], "21000": ["bound"], "01001": ["hound"]}}

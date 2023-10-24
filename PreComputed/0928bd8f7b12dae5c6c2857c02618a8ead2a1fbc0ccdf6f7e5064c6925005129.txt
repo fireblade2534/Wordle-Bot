@@ -1,0 +1,1 @@
+{"Word": "dholl", "Groups": {"10000": ["beady"], "00010": ["leaky", "leafy"], "11000": ["heady"], "01000": ["heavy"], "01010": ["leash"], "00020": ["mealy"], "00002": ["email"]}}

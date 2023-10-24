@@ -1,0 +1,1 @@
+{"Word": "coley", "Groups": {"20020": ["cheek", "chief"], "10120": ["excel"], "20120": ["clued"], "22022": ["covey"], "11012": ["decoy"], "10022": ["dicey"], "10020": ["bicep"], "21210": ["cello"], "10010": ["medic"], "22020": ["coven"], "20010": ["chess"], "11010": ["gecko"]}}

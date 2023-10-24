@@ -1,0 +1,1 @@
+{"Word": "balms", "Groups": {"00200": ["gulch"], "00210": ["mulch"], "00100": ["lunch"], "00000": ["hunch", "punch"], "00010": ["munch"], "20000": ["bunch"]}}

@@ -1,0 +1,1 @@
+{"Word": "bahus", "Groups": {"02011": ["saute"], "01000": ["atone"], "02001": ["waste", "paste"], "22100": ["bathe"], "02101": ["haste"], "02100": ["lathe"], "22001": ["baste"], "02000": ["latte"], "02110": ["haute"]}}

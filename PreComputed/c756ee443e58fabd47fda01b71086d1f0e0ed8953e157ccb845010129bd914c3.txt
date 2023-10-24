@@ -1,0 +1,1 @@
+{"Word": "befog", "Groups": {"00001": ["gully"], "20000": ["bully"], "00100": ["fully"], "00000": ["dully"]}}

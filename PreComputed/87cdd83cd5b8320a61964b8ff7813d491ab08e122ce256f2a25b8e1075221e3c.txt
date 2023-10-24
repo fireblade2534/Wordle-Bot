@@ -1,0 +1,1 @@
+{"Word": "aldol", "Groups": {"01020": ["pilot"], "00010": ["pinto"], "00110": ["ditto"], "00120": ["idiot"], "00020": ["pivot"]}}

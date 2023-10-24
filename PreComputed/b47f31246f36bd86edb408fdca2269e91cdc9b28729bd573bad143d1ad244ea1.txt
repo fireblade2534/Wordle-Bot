@@ -1,0 +1,1 @@
+{"Word": "aarti", "Groups": {"00110": ["store"], "00120": ["route"], "00220": ["forte"]}}

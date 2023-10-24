@@ -1,0 +1,1 @@
+{"Word": "aheap", "Groups": {"00122": ["recap"], "10101": ["caper"], "10100": ["racer"], "00120": ["cedar"], "00220": ["clear"]}}

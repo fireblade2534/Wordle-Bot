@@ -1,0 +1,1 @@
+{"Word": "agism", "Groups": {"00011": ["slump"], "01010": ["slung"], "00020": ["slush"], "00010": ["slunk"]}}

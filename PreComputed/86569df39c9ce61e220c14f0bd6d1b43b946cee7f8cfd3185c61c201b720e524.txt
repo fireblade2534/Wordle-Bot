@@ -1,0 +1,1 @@
+{"Word": "darer", "Groups": {"20100": ["dowry"], "00100": ["roomy"], "00200": ["horny"], "00201": ["worry"], "10100": ["rowdy"], "10200": ["wordy"]}}

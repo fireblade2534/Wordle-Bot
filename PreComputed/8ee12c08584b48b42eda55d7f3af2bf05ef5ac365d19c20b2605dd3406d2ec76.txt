@@ -1,0 +1,1 @@
+{"Word": "mened", "Groups": {"10020": ["totem"], "01022": ["tweed"], "02220": ["tenet"], "12000": ["tempo"], "00020": ["thief", "towel"], "01020": ["tweet"], "02010": ["teeth"], "00120": ["token"], "02200": ["tenth"], "02000": ["testy"], "01000": ["theft"], "02001": ["teddy"], "02002": ["tepid"]}}

@@ -1,0 +1,1 @@
+{"Word": "hokum", "Groups": {"10010": ["pushy", "bushy"], "00111": ["musky"], "20110": ["husky"], "20010": ["hussy"], "00110": ["dusky"], "10011": ["mushy"], "00000": ["gypsy"], "00010": ["fussy"]}}

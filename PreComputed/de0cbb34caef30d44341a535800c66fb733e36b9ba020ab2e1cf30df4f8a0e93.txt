@@ -1,0 +1,1 @@
+{"Word": "blips", "Groups": {"00010": ["champ"], "02002": ["class"], "01001": ["scald", "scaly"], "02100": ["claim"], "00002": ["chaos"], "00000": ["chaff"], "02011": ["clasp"], "01011": ["scalp"], "01000": ["chalk"], "02001": ["clash"], "00001": ["chasm"], "02010": ["clamp"], "02000": ["clank", "clang"], "00100": ["chain"], "00011": ["scamp"]}}

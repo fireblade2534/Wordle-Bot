@@ -1,0 +1,1 @@
+{"Word": "apiol", "Groups": {"00022": ["stool"], "01010": ["stomp"], "00020": ["stood"], "00010": ["stony"], "01020": ["stoop"]}}

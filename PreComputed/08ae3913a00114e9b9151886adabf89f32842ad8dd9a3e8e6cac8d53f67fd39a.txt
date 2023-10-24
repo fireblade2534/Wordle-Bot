@@ -1,0 +1,1 @@
+{"Word": "bumfs", "Groups": {"01110": ["flume"], "20000": ["bloke"], "00000": ["elope"], "01100": ["plume"], "01000": ["elude"], "01010": ["fluke"]}}

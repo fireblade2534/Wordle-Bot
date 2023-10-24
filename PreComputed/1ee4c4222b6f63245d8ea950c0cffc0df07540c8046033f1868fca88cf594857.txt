@@ -1,0 +1,1 @@
+{"Word": "defer", "Groups": {"01101": ["fresh"], "01002": ["error"], "00021": ["gruel"], "01122": ["freer"], "10021": ["pried"], "00121": ["grief", "brief"], "20022": ["dryer", "drier"], "01021": ["preen", "green"], "11021": ["breed", "greed"], "11121": ["freed"], "10022": ["order"], "21001": ["dress"], "10121": ["fried"], "20021": ["dried"], "01001": ["press"]}}

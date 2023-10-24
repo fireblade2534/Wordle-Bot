@@ -1,0 +1,1 @@
+{"Word": "aband", "Groups": {"00000": ["swept"], "00020": ["spent"]}}

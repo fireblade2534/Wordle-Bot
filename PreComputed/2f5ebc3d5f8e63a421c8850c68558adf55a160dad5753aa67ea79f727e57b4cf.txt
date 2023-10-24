@@ -1,0 +1,1 @@
+{"Word": "flawn", "Groups": {"01000": ["light"], "00001": ["night"], "00000": ["might"], "00010": ["wight"], "20000": ["fight"]}}

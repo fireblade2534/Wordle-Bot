@@ -1,0 +1,1 @@
+{"Word": "hound", "Groups": {"10101": ["dutch"], "10100": ["butch"], "20100": ["hutch"], "00000": ["stick"], "00200": ["stuck"], "10000": ["pitch", "witch"], "12010": ["notch"], "20000": ["hitch"], "01000": ["stock"], "12000": ["botch"], "10001": ["ditch"]}}

@@ -1,0 +1,1 @@
+{"Word": "abaca", "Groups": {"11000": ["began"], "10000": ["vegan"]}}

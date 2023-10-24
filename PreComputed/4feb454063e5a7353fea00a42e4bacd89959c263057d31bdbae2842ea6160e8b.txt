@@ -1,0 +1,1 @@
+{"Word": "rhomb", "Groups": {"10000": ["furry"], "10010": ["murky"], "20001": ["rugby"], "20000": ["ruddy"], "11000": ["hurry"]}}

@@ -1,0 +1,1 @@
+{"Word": "agood", "Groups": {"10100": ["offal"], "20020": ["allow"], "20202": ["aloud"], "20200": ["afoul"], "22020": ["aglow"], "20220": ["aloof"]}}

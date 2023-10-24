@@ -1,0 +1,1 @@
+{"Word": "bhels", "Groups": {"02220": ["whelp"], "01211": ["flesh"], "20120": ["belly"], "00221": ["spell", "smell", "swell"], "00220": ["quell"], "20212": ["bless"], "02221": ["shell", "shelf"], "00120": ["jelly"], "20110": ["below"], "10110": ["elbow"], "01111": ["welsh"], "00210": ["elegy"], "01120": ["hello"]}}

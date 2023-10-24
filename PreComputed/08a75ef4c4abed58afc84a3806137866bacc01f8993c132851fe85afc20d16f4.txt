@@ -1,0 +1,1 @@
+{"Word": "ferer", "Groups": {"22201": ["ferry"], "01100": ["query"], "02200": ["perky", "jerky"], "02110": ["leery"], "02100": ["reply"], "01110": ["every"], "02002": ["lemur"], "02201": ["merry", "berry"], "22002": ["femur"]}}

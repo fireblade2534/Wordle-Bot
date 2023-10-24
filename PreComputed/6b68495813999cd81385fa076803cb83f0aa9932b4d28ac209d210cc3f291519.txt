@@ -1,0 +1,1 @@
+{"Word": "budas", "Groups": {"00010": ["karma"], "02021": ["sugar"], "02010": ["augur"], "00011": ["marsh", "harsh"], "10110": ["rabid"], "10010": ["rabbi"], "00020": ["rajah"], "00220": ["radar"], "00210": ["radii"], "12010": ["rumba"], "11010": ["umbra"]}}

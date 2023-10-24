@@ -1,0 +1,1 @@
+{"Word": "abris", "Groups": {"20200": ["agree"], "10100": ["range"], "11200": ["barge"], "20100": ["azure", "adore"], "10200": ["large"], "20110": ["afire"], "10201": ["parse"], "10111": ["raise"]}}

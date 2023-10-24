@@ -1,0 +1,1 @@
+{"Word": "flimp", "Groups": {"00000": ["boost"], "00210": ["moist"], "00101": ["posit"], "00200": ["joist"], "20200": ["foist"]}}

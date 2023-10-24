@@ -1,0 +1,1 @@
+{"Word": "akita", "Groups": {"11010": ["stake"], "12020": ["skate"], "10010": ["stave"], "10020": ["state"]}}

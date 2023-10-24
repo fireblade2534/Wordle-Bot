@@ -1,0 +1,1 @@
+{"Word": "abash", "Groups": {"00210": ["snare", "spare"], "00211": ["share"], "20200": ["aware"], "00200": ["glare", "flare"], "01200": ["blare"]}}

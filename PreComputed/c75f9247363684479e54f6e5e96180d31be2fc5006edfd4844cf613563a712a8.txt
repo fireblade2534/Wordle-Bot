@@ -1,0 +1,1 @@
+{"Word": "alist", "Groups": {"11001": ["trawl"], "10021": ["trash"], "10101": ["train"], "10102": ["trait"], "10001": ["tramp"], "11101": ["trail"]}}

@@ -1,0 +1,1 @@
+{"Word": "upbow", "Groups": {"00011": ["sower"], "10000": ["surer"], "20000": ["usher"], "00010": ["loser"], "00000": ["sever", "sheer"], "01010": ["poser"], "11000": ["super"], "00002": ["shrew"], "00210": ["sober"], "00001": ["sewer"]}}

@@ -1,0 +1,1 @@
+{"Word": "cours", "Groups": {"22010": ["corny", "color"], "11111": ["scour"], "11021": ["scorn"], "10110": ["incur"], "21020": ["chord"], "21010": ["choir"], "10111": ["scrub", "scrum"], "11020": ["micro"], "12010": ["rocky"], "20110": ["curly", "curvy"], "10010": ["lyric"], "21110": ["curio"], "20220": ["churn"], "20120": ["curry"], "11110": ["occur"], "20020": ["chirp"]}}

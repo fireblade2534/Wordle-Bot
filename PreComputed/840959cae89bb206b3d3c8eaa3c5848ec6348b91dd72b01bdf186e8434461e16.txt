@@ -1,0 +1,1 @@
+{"Word": "aboil", "Groups": {"01210": ["biome"], "00120": ["movie"], "00010": ["pique"], "00210": ["diode"], "00020": ["pixie"], "01010": ["imbue"]}}

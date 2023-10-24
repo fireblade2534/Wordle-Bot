@@ -1,0 +1,1 @@
+{"Word": "amove", "Groups": {"00101": ["enjoy"], "00001": ["begun"], "00111": ["envoy"], "01001": ["enemy"], "00201": ["ebony"]}}

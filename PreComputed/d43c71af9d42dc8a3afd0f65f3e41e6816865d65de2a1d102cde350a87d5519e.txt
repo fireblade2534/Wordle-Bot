@@ -1,0 +1,1 @@
+{"Word": "defog", "Groups": {"20000": ["dandy"], "00100": ["fanny"], "00000": ["nanny"], "10000": ["handy"], "00001": ["mangy"]}}

@@ -1,0 +1,1 @@
+{"Word": "aalii", "Groups": {"00200": ["golem"], "00100": ["bowel"]}}

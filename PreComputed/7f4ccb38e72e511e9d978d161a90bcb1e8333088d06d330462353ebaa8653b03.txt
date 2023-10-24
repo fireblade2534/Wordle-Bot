@@ -1,0 +1,1 @@
+{"Word": "abaft", "Groups": {"10101": ["natal"], "10001": ["waltz"], "10111": ["fatal"]}}

@@ -1,0 +1,1 @@
+{"Word": "abohm", "Groups": {"00110": ["house"], "00100": ["posse"], "00101": ["mouse"], "02100": ["obese"], "00201": ["moose"], "00210": ["whose"]}}

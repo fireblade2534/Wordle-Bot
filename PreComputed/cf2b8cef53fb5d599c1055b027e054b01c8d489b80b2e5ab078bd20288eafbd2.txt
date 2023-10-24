@@ -1,0 +1,1 @@
+{"Word": "amped", "Groups": {"11020": ["tamer"], "10220": ["taper"], "10010": ["terra"], "10020": ["taker"]}}

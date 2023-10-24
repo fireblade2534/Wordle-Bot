@@ -1,0 +1,1 @@
+{"Word": "dhows", "Groups": {"00001": ["smear"], "00000": ["rebar"], "01000": ["rehab"], "00011": ["swear"], "02001": ["shear"], "20000": ["debar"]}}

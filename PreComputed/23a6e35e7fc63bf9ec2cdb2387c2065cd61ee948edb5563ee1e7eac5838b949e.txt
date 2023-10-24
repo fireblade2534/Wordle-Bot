@@ -1,0 +1,1 @@
+{"Word": "admix", "Groups": {"10121": ["maxim"], "10200": ["gamma", "mamma"], "11100": ["madam"], "21020": ["aphid"], "10120": ["mafia"], "11020": ["vapid"], "10010": ["pizza"], "10000": ["kappa"], "20022": ["affix"], "10100": ["magma"]}}

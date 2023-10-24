@@ -1,0 +1,1 @@
+{"Word": "abele", "Groups": {"10012": ["place"], "10002": ["space"], "10102": ["peace"]}}
