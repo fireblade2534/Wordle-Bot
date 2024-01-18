@@ -1,0 +1,1 @@
+{"Word": "fowth", "Groups": {"00010": ["digit"], "02010": ["vomit"], "00011": ["might", "tight"], "00111": ["wight"], "20011": ["fight"], "01010": ["bigot"]}}
