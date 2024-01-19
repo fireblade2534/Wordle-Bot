@@ -103,14 +103,24 @@ class BotClass:
     
     
 def ComputeAll(AllWords,Words):
+    All=0
     for X in Words:
         Bot=BotClass(AllWords,Words)
+        Guesses=0
         while True:
+            Guesses+=1
+            print()
             BestGuess,BestGroups=Bot.GenerateGroups()
             Input=ComputeCode(BestGuess,X)[0]
             Bot.Trimmed=BestGroups[Input]
             if len(Bot.Trimmed) == 1:
+                #print(Bot.Trimmed)
+                if Bot.Trimmed[0] != X:
+                    print("thats not good")
+                All+=Guesses
                 break
+    print(All / len(Words))
+    print(len(Words))
             
         
 
@@ -124,7 +134,8 @@ if __name__ == "__main__":
     while True:
         AllWords = json.load(open("AllWords.txt", "r"))
         Words = json.load(open("Words.txt", "r"))
-
+        ComputeAll(AllWords,Words)
+        exit()
         Bot=BotClass(AllWords,Words)
         StartWord=None
         while True:
